@@ -1,0 +1,3 @@
+debug = True
+
+rich = False

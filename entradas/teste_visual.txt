@@ -1,0 +1,17 @@
+# NÓS (Nome X Y)
+a 10 100
+b 50 150
+c 90 100
+d 50 50
+e 150 150
+f 200 100
+g 150 50
+h 200 50
+
+# ARESTAS
+a b
+b c
+c a
+e f
+f g
+g e
