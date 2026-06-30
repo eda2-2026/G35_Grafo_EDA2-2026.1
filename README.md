@@ -19,15 +19,23 @@ Sugestão de Arestas: O programa identifica os pares de nós mais próximos entr
 
 ### 1. Interface Inicial
 A interface limpa pronta para receber o arquivo de entrada.
-![Interface Inicial](./Images/interface_inicial.png)
+![Interface Inicial](./Images/Captura%20de%20tela%202026-06-29%20204450.png)
 
 ### 2. Processamento e Logs
 Exemplo do log detalhado identificando cada um dos SCCs e calculando as distâncias.
-![Logs de Processamento](./Images/logs.png)
+![Logs de Processamento](./Images/Captura%20de%20tela%202026-06-29%20204806.png)
 
 ### 3. Projeto em Funcionamento (Grafo Final)
 O resultado visual com as arestas originais e as sugestões de conexão em vermelho.
-![Projeto Funcionando](./Images/projeto_funcionando2.png)
+<br>
+Arestas originais:
+
+![Projeto Funcionando](./Images/Captura%20de%20tela%202026-06-29%20204549.png)
+
+
+Sugestões de conexões:
+
+![Projeto Funcionando](./Images/Captura%20de%20tela%202026-06-29%20204610.png)
 
 ## Instalação
 Linguagem: Python<br>
@@ -65,6 +73,10 @@ Identificação de SCCs: $O(V + E)$, utilizando uma estratégia inspirada no alg
 Conectividade Total: $O(V^2)$ no pior caso para a busca exaustiva de distâncias mínimas entre componentes.
 
 O projeto demonstra como conceitos de teoria de grafos podem ser aplicados em conjunto com geometria analítica para resolver problemas de conectividade em redes e sistemas de comunicação.
+
+## Vídeo
+
+[Projeto de EDA2 - Grafos ](https://youtu.be/Dy1t0sVro3A)
 
 ## Integrantes da Equipe
 
